@@ -26,7 +26,7 @@ public class Weapon {
 	 * @param name This is the name of the new weapon
 	 * @param power This is the power level of the new weapon
 	 */
-	public Weapon(String name, Integer power) {
+	public Weapon(String name, int power) {
 		this.weaponName=name;
 		this.power=power;
 	}
